@@ -1,7 +1,7 @@
 # Digital Wallet
 
-![Screenshot](screenshot1.png | width=25)
-![Screenshot](screenshot2.png | width=25)
+<img src="screenshot1.png2" width="48">
+<img src="screenshot2.png" width="48">
 
 ---
 
